@@ -1,0 +1,4 @@
+// expect 자동완성 설정
+// jest 설정
+
+{"typeAcquisition": {"include": ["jest"]}}
